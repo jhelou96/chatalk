@@ -23,3 +23,4 @@ The client application is also a multithreading application that allows the clie
 |   reg &lt;username> &lt;password&gt;   |            Allows the user to create a new account           |
   
   ## Video demo
+[![Video demo](https://img.youtube.com/vi/r40r4Hu6Kaw/0.jpg)](https://www.youtube.com/watch?v=r40r4Hu6Kaw)
