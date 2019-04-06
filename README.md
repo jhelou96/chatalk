@@ -1,5 +1,5 @@
 # chatalk
-ChaTalk is a chatting desktop application based on Java socked programming.
+ChaTalk is a chatting desktop application based on Java socket programming.
 ChatTalk is divided in two applications: The server and the client. Both applications communicate with each other through a TCP connection.
 
 ## How it works
