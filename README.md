@@ -12,14 +12,14 @@ The client application is also a multithreading application that allows the clie
 
 |            Command            |                          Description                         |
 |:-----------------------------:|:------------------------------------------------------------:|
-|  login <username> <password>  |        Allows the user to login using his credentials        |
-| message <recipient> <content> |   Allows the user to send a private message to another user  |
-|      broadcast <content>      |        Allows the user to send a message to all users        |
+|  login &lt;username> &lt;password&gt;  |        Allows the user to login using his credentials        |
+| message &lt;recipient> &lt;content&gt; |   Allows the user to send a private message to another user  |
+|      broadcast &lt;content&gt;     |        Allows the user to send a message to all users        |
 |          whoseonline          |                 Returns all the online users                 |
 |           WhoLastHr           |    Returns the users that were online during the past hour   |
-|          block <user>         | User will not receive messages from the blocked user anymore |
-|         ublock <user>         |            Allows a user to unblock a blocked user           |
+|          block &lt;user&gt;        | User will not receive messages from the blocked user anymore |
+|         ublock &lt;user&gt;         |            Allows a user to unblock a blocked user           |
 |             logout            |                   Allows the user to logout                  |
-|   reg <username> <password>   |            Allows the user to create a new account           |
+|   reg &lt;username> &lt;password&gt;   |            Allows the user to create a new account           |
   
   ## Video demo
