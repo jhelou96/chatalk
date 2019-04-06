@@ -6,7 +6,7 @@ ChatTalk is divided in two applications: The server and the client. Both applica
 The server application is a multithreading application that listens for new connections from the client on port 6789. Each time a new connection is requested by the client, it is initiated on a new thread which allows the server to support multiple clients at the same time.
 All information sent by the client to the server such as messages, credentials and so on are saved by the server in a JSON file.
 
-The client application is also a multithreading application that allows the client to connect to multiple servers at the same time.
+The client application is also a multithreading application that allows the user to connect to multiple servers at the same time.
 
 ### List of commands
 
